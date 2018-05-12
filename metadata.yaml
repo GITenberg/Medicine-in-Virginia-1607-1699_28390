@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33305'
     url: http://www.gutenberg.org/2009/agents/33305
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28390#Medicine-in-Virginia-1607-1699
 gutenberg_issued: '2009-03-22'
 gutenberg_type: Text
 identifiers:
